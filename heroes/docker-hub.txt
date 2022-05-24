@@ -1,0 +1,2 @@
+docker build -t fariasrodrigo/spring-boot-heroes:latest .
+docker push fariasrodrigo/spring-boot-heroes:latest
